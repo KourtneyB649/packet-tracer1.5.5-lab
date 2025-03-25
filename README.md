@@ -15,4 +15,4 @@ Demonstrated CLI routing, IP setup, and ping testing.
 
 ---
 
-Created as part of my coursework in **DECOM 217: Intro to Networks**.
+Created as part of my coursework in **DCOM 217: Intro to Networks**.
