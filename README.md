@@ -13,9 +13,6 @@ Demonstrated CLI routing, IP setup, and ping testing.
 - Cisco Packet Tracer
 - CLI (Command Line Interface)
 
-## Screenshot
-_Add a screenshot here if you'd like — it helps your repo stand out visually!_
-
 ---
 
 Created as part of my coursework in **DECOM 217: Intro to Networks**.
